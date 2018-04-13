@@ -17,7 +17,7 @@
                 <input type="text" name="name" value="<?php echo $name; ?>">
             </div>
             <div class="input-group">
-                <label>Email</label>
+                <label>Email</label>œ
                 <input type="email" name="email" value="<?php echo $email; ?>">
             </div>
             <div class="input-group">
