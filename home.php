@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Home</title>
+	<title>aplikasi survey</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
